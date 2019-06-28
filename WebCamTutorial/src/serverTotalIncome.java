@@ -1,0 +1,8 @@
+
+public class serverTotalIncome { 
+	serverTotalIncome() 
+	{
+		
+	}
+
+}
